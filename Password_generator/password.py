@@ -1,5 +1,5 @@
-#collect user preference 
-#length
+#collect user preference :
+#length of the password
 #should contain uppercase
 #should contain digits
 #should contain special digits
