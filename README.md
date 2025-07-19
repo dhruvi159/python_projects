@@ -17,11 +17,6 @@ A basic to-do list management system with functions to create, view, mark as com
 
 A command-line trivia game that randomly selects questions, collects user answers, checks correctness, and keeps score. This project improved my skills in working with dictionaries, random sampling, loops, and user interaction.
 
-## 4. Finance Tracker
-**Level:** (Planned/Work in Progress)
-
-A more advanced project intended to track personal finances, manage expenses, and generate reports. This project will involve file handling, data persistence, and possibly data visualization, representing a step up in complexity and real-world application.
-
 ---
 
 Each project in this repository marks a step forward in my Python learning journey, from basic scripting to more structured and practical applications.
