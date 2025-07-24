@@ -21,6 +21,7 @@ A command-line trivia game that randomly selects questions, collects user answer
 **Level:** Intermediate
 
 A simple YouTube Video Manager CLI application using Python and SQLite to add, view, update, and delete YouTube video records locally.This project taught me about database management, CRUD operations, and how to structure a Python application for data persistence.
+
 ---
 
 Each project in this repository marks a step forward in my Python learning journey, from basic scripting to more structured and practical applications.
